@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.devobj.com/upload/nursing.ipa</string>
+					<string>http://app.devobj.com/upload/pos.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.swellinfo.nursing</string>
+				<string>com.swellinfo.app1</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
